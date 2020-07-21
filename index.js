@@ -1,3 +1,7 @@
+const inquirer = require("inquirer");
+const fs = require(`fs`);
+
+
 // array of questions for user
 const questions = [
     {
@@ -21,9 +25,16 @@ const questions = [
         Message: "Please write a short description of your project?",
     },
     {
-        type: "input",
+        type: "checkbox",
         name: "liscense",
         Message: "What kind of license should your project have",
+        choices: [
+            "MIT",
+            "APACHE 2.0",
+            "GPL 3.0",
+            "BSD 3",
+            "None"
+        ]
     },
     {
         type: "input",
