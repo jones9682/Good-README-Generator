@@ -26,7 +26,7 @@ const questions = [
     },
     {
         type: "checkbox",
-        name: "liscense",
+        name: "license",
         Message: "What kind of license should your project have",
         choices: [
             "MIT",
