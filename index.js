@@ -20,11 +20,11 @@ const questions = [
         name: "title",
         message: "What is your project's name?",
     },
-    {
-        type: "input",
-        name: "badge",
-        message: "Please provide the badges links that you want?"
-    },
+    // {
+    //     type: "input",
+    //     name: "badge",
+    //     message: "Please provide the badges links that you want?"
+    // },
     {
         type: "input",
         name: "description",
@@ -41,6 +41,11 @@ const questions = [
             "BSD 3",
             "None"
         ]
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "Please provide the project usage",
     },
     {
         type: "input",
