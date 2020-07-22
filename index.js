@@ -23,7 +23,7 @@ const questions = [
     {
         type: "input",
         name: "badge",
-        message: "Please provide the badges links that you want"
+        message: "Please provide the badges links that you want?"
     },
     {
         type: "input",
@@ -60,7 +60,7 @@ const questions = [
     {
         type: "input",
         name: "contribute",
-        message: "What does the user need to know about contributing to the repo?",
+        message: "Who contributed to this repo?",
     },
 ];
 
