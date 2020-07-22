@@ -1,6 +1,7 @@
-const inquirer = require("inquirer");
 const fs = require(`fs`);
-
+const axios = require("axios");
+const inquirer = require("inquirer");
+const generate = require(`./utils/generateMarkdown`);
 
 // array of questions for user
 const questions = [
@@ -12,22 +13,22 @@ const questions = [
     {
         type: "input",
         name: "email",
-        Message: "What is your email address?",
+        message: "What is your email address?",
     },
     {
         type: "input",
-        name: "project",
-        Message: "What is your project's name?",
+        name: "title",
+        message: "What is your project's name?",
     },
     {
         type: "input",
         name: "description",
-        Message: "Please write a short description of your project?",
+        message: "Please write a short description of your project?",
     },
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
-        Message: "What kind of license should your project have",
+        message: "What kind of license should your project have?",
         choices: [
             "MIT",
             "APACHE 2.0",
@@ -39,32 +40,49 @@ const questions = [
     {
         type: "input",
         name: "install",
-        Message: "What command should be run to install dependencies?",
+        message: "What command should be run to install dependencies?",
     },
     {
         type: "input",
         name: "test",
-        Message: "What command should be run to run tests?",
+        message: "What command should be run to run tests?",
     },
     {
         type: "input",
         name: "repo",
-        Message: "What does the user need to know about using the repo?",
+        message: "What is your repository link?",
     },
     {
         type: "input",
         name: "contribute",
-        Message: "What does the user need to know about contributing to the repo?",
+        message: "What does the user need to know about contributing to the repo?",
     },
 ];
 
-// function to write README file
-function writeToFile(fileName, data) {
-}
-
 // function to initialize program
 function init() {
+    inquirer
+        .prompt(questions)
+        .then(function (data) {
+            const queryUrl = `https://api.github.com/users/${data.username}`;
 
+            axios.get(queryUrl).then(function (res) {
+
+                const githubInfo = {
+                    githubImage: res.data.avatar_url,
+                    profile: res.data.html_url,
+                    name: res.data.name
+                };
+
+                // function to write README file
+                fs.writeFile("README.md", generate(data, githubInfo), function (error) {
+                    if (error) {
+                        throw error;
+                    };
+                    console.log("New README.md file created success!");
+                });
+            });
+        });
 }
 
 // function call to initialize program
