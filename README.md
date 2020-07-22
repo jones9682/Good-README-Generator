@@ -29,7 +29,7 @@ MIT
 
 ## Contributors
 
-That it is important to have a quality README about your project.
+Bobby Jones
 
 ## Repository
 
