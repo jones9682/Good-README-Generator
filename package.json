@@ -4,6 +4,7 @@
   "description": "Quickly create a professional README for a new project",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.19.2",
     "inquirer": "^7.3.2"
   },
   "devDependencies": {},
