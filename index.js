@@ -45,7 +45,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Please provide the project usage",
+        message: "Please provide the project usage?(use empty value to skip)",
     },
     {
         type: "input",
