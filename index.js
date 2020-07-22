@@ -22,6 +22,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "badge",
+        message: "Please provide the badges links that you want"
+    },
+    {
+        type: "input",
         name: "description",
         message: "Please write a short description of your project?",
     },
