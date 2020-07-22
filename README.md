@@ -1,5 +1,5 @@
 
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
 
 # **Good README Generator**
 
