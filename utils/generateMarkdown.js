@@ -3,8 +3,6 @@ function generateMarkdown(data, githubInfo) {
   return `
 # **${data.title}**
 
-${data.badge}
-
 ## Description
 
 ${data.description}
@@ -22,6 +20,10 @@ ${data.description}
 ## Installation
 
 ${data.install}
+
+## Usage
+
+${data.usage}
 
 ## Test
 
