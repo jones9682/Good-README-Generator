@@ -1,8 +1,6 @@
 
 # ****
 
-[Custom Badge](https://img.shields.io/badge/MadeBy-%40jones9682-blue)
-
 ## Description
 
 
@@ -26,7 +24,7 @@
 
 
 ## License
-
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 MIT
 
 ## Contributors
