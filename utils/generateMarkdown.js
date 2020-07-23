@@ -22,9 +22,9 @@ ${data.description}
 - [Contributors](#Contributors) 
 
 ## Installation
-
+``
 ${data.install}
-
+``
 ## Usage
 
 ${data.usage}
@@ -34,9 +34,9 @@ ${data.usage}
 ![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
 
 ## Test
-
+``
 ${data.test}
-
+``
 ## License
 
 ${data.license}
