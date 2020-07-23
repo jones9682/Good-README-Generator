@@ -1,7 +1,7 @@
 
 [![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
 
-# **Good README Generator**
+# **Good README**
 
 ## Description
 
@@ -11,7 +11,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 - [GitHub Info](#GitHub)
 - [Description](#Description)
-- [Licence](#Licence)
+- [License](#License)
 - [Installation](#Installation)
 - [Test](#Test)
 - [Repository Link](#Repository)
@@ -23,7 +23,7 @@ npm install
 
 ## Usage
 
-
+<iframe src="https://drive.google.com/file/d/1ZkojMXOgiVnqjRKKZKCkikNNTI5uxXHT/preview" width="640" height="480"></iframe>
 
 ## Test
 
@@ -35,11 +35,11 @@ MIT
 
 ## Contributors
 
-Bobby Jones
+Me
 
 ## Repository
 
-- [Project Repo](https://github.com/jones9682/Good-README-Generator)
+- [Project Repo](link)
 
 ## GitHub
 
