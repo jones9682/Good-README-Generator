@@ -10,7 +10,7 @@ function generateMarkdown(data, githubInfo) {
 ${data.description}
 
 ## Table of- Contents
-- [GitHub Info](#GitHub)
+- [Questions](#Questions)
 - [Description](#Description)
 - [License](#License)
 - [Installation](#Installation)
@@ -23,9 +23,8 @@ ${data.description}
 ## Installation
 To install necessary dependencies, run the following command:
 
-``
 ${data.install}
-``
+
 ## Usage
 
 ${data.usage}
@@ -37,9 +36,8 @@ ${data.usage}
 ## Test
 To run tests, run the following command:
 
-``
 ${data.test}
-``
+
 ## License
 
 ${data.license}
@@ -52,11 +50,12 @@ ${data.contribute}
 
 - [Project Repo](${data.repo})
 
-## GitHub
+## Questions
 
 ![Image of me](${githubInfo.githubImage})
-- [GitHub Profile](${githubInfo.profile})
-- ${githubInfo.email}
+
+
+If you have any question about the repo, open an issue or contact me directly at ${data.email}. You can fin more of my work at [GitHub Profile](${githubInfo.profile}).
   
   `;
 }
