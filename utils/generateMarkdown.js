@@ -9,9 +9,8 @@ function generateMarkdown(data, githubInfo) {
 
 ${data.description}
 
-## Table of contents
-
-- [GitHub Info](#Questions)
+## Table of- Contents
+- [GitHub Info](#GitHub)
 - [Description](#Description)
 - [License](#License)
 - [Installation](#Installation)
@@ -53,12 +52,12 @@ ${data.contribute}
 
 - [Project Repo](${data.repo})
 
-## Questions
+## GitHub
 
 ![Image of me](${githubInfo.githubImage})
-
-If you have any question about the repo, open an issue or contact me directly at " + ${githubInfo.email} +". You can fin more of my work at "  + [jones9682](${githubInfo.profile}) + "/).
-
+- [GitHub Profile](${githubInfo.profile})
+- ${githubInfo.email}
+  
   `;
 }
 
