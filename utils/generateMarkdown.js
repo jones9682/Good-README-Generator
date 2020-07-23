@@ -15,6 +15,8 @@ ${data.description}
 - [Description](#Description)
 - [License](#License)
 - [Installation](#Installation)
+- [Usage](#Usage)
+- [Demo](#Demo)
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [Contributors](#Contributors) 
@@ -26,6 +28,10 @@ ${data.install}
 ## Usage
 
 ${data.usage}
+
+## Demo
+
+![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
 
 ## Test
 
