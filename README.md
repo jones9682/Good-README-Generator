@@ -23,7 +23,7 @@ npm install
 
 ## Usage
 
-<iframe src="https://drive.google.com/file/d/1ZkojMXOgiVnqjRKKZKCkikNNTI5uxXHT/preview" width="640" height="480"></iframe>
+[![Watch The Tutorial](https://drive.google.com/file/d/1ZkojMXOgiVnqjRKKZKCkikNNTI5uxXHT/preview)
 
 ## Test
 
