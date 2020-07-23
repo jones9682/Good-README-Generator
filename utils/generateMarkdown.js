@@ -55,7 +55,7 @@ ${data.contribute}
 ![Image of me](${githubInfo.githubImage})
 
 
-If you have any question about the repo, open an issue or contact me directly at ${data.email}. You can fin more of my work at [GitHub Profile](${githubInfo.profile}).
+If you have any question about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at my [GitHub Profile](${githubInfo.profile}).
   
   `;
 }
