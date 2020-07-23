@@ -13,6 +13,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 - [Description](#Description)
 - [License](#License)
 - [Installation](#Installation)
+- [Usage](#Usage)
+- [Demo](#Demo)
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [Contributors](#Contributors) 
