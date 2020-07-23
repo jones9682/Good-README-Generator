@@ -53,6 +53,6 @@ Bobby Jones Jr.
 ![Image of me](https://avatars3.githubusercontent.com/u/64339522?v=4)
 
 
-If you have any question about the repo, open an issue or contact me directly at jones9682@yahoo.com. You can find more of my work at my [GitHub Profile](https://github.com/jones9682).
+If you have any questions about the repo, open an issue or contact me directly at jones9682@yahoo.com. You can find more of my work at my [GitHub Profile](https://github.com/jones9682).
   
   
