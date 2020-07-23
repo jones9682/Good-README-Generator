@@ -20,9 +20,9 @@ When creating an open source project on GitHub, it is important to have a qualit
 - [Contributors](#Contributors) 
 
 ## Installation
-
+``
 npm install
-
+``
 ## Usage
 
 ## Demo
@@ -30,9 +30,9 @@ npm install
 ![Demo Tutorial](Video/GoodREADMEGenerator(Node).gif)
 
 ## Test
-
+``
 npm run test
-
+``
 ## License
 
 MIT
