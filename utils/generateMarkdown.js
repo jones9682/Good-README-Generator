@@ -31,7 +31,7 @@ ${data.usage}
 
 ## Demo
 
-![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
+![Demo Tutorial](Video/GoodREADMEGenerator(Node).gif)
 
 ## Test
 To run tests, run the following command:
