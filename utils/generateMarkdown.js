@@ -13,7 +13,7 @@ ${data.description}
 
 - [GitHub Info](#GitHub)
 - [Description](#Description)
-- [Licence](#Licence)
+- [License](#License)
 - [Installation](#Installation)
 - [Test](#Test)
 - [Repository Link](#Repository)
