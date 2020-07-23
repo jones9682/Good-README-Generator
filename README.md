@@ -1,7 +1,7 @@
 
 [![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
 
-# **Good README**
+# **Good README Generator**
 
 ## Description
 
@@ -27,7 +27,7 @@ npm install
 
 ## Demo
 
-![video Tutorial](Video/GoodREADMEGenerator(Node).gif)
+![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
 
 ## Test
 
@@ -39,11 +39,11 @@ MIT
 
 ## Contributors
 
-Me
+Bobby Jones Jr.
 
 ## Repository
 
-- [Project Repo](link)
+- [Project Repo](https://github.com/jones9682/Good-README-Generator)
 
 ## GitHub
 
