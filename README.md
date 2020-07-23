@@ -20,22 +20,22 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Installation
 To install necessary dependencies, run the following command:
-
+``
 npm install
-
+``
 ## Usage
 
 
 
 ## Demo
 
-![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
+![Demo Tutorial](Video/GoodREADMEGenerator(Node).gif)
 
 ## Test
 To run tests, run the following command:
-
+``
 npm test
-
+``
 ## License
 
 MIT
@@ -53,6 +53,6 @@ Bobby Jones Jr.
 ![Image of me](https://avatars3.githubusercontent.com/u/64339522?v=4)
 
 
-If you have any question about the repo, open an issue or contact me directly at jones9682@yahoo.com. You can fin more of my work at [GitHub Profile](https://github.com/jones9682).
+If you have any question about the repo, open an issue or contact me directly at jones9682@yahoo.com. You can find more of my work at my [GitHub Profile](https://github.com/jones9682).
   
   
