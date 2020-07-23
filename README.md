@@ -25,7 +25,7 @@ npm install
 
 ## Demo
 
-[![video Tutorial](Video\GoodREADMEGenerator(Node).gif)
+![video Tutorial](Video\GoodREADMEGenerator(Node).gif)
 
 ## Test
 
