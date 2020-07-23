@@ -46,12 +46,12 @@ Bobby Jones Jr.
 
 ## Repository
 
-- [Project Repo](https://github.com/jones9682/Good-README-Generator)
+- [Project Repo](https://github.com/jones9682/Good-README-Generator\)
 
 ## GitHub
 
 ![Image of me](https://avatars3.githubusercontent.com/u/64339522?v=4)
-- [GitHub Profile](https://github.com/jones9682)
-- jones9682@yahoo.com
+
+If you have any question about the repo, open an issue or contact me directly at " + jones9682@yahoo.com +". You can fin more of my work at "  + [GitHub Profile](https://github.com/jones9682).
   
   
