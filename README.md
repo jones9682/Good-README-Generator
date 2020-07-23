@@ -20,6 +20,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 - [Contributors](#Contributors) 
 
 ## Installation
+To install necessary dependencies, run the following command:
+
 ``
 npm install
 ``
@@ -30,6 +32,8 @@ npm install
 ![Demo Tutorial](Video/GoodREADMEGenerator(Node).gif)
 
 ## Test
+To run tests, run the following command:
+
 ``
 npm run test
 ``
