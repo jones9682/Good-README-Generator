@@ -23,7 +23,7 @@ npm install
 
 ## Usage
 
-[![Watch The Tutorial](https://drive.google.com/file/d/1ZkojMXOgiVnqjRKKZKCkikNNTI5uxXHT/preview)
+[![video Tutorial](Video\Good%20README%20Generator%20(Node%20Tutorial).webm)
 
 ## Test
 
