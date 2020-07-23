@@ -23,7 +23,9 @@ npm install
 
 ## Usage
 
-[![video Tutorial](Video\Good%20README%20Generator%20(Node%20Tutorial).webm)
+## Demo
+
+[![video Tutorial](Video\GoodREADMEGenerator(Node).gif)
 
 ## Test
 
