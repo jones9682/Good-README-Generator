@@ -11,7 +11,7 @@ ${data.description}
 
 ## Table of contents
 
-- [GitHub Info](#GitHub)
+- [GitHub Info](#Questions)
 - [Description](#Description)
 - [License](#License)
 - [Installation](#Installation)
@@ -22,6 +22,8 @@ ${data.description}
 - [Contributors](#Contributors) 
 
 ## Installation
+To install necessary dependencies, run the following command:
+
 ``
 ${data.install}
 ``
@@ -34,6 +36,8 @@ ${data.usage}
 ![Demo Tutorial](Videos/GoodREADMEGenerator(Node).gif)
 
 ## Test
+To run tests, run the following command:
+
 ``
 ${data.test}
 ``
@@ -49,12 +53,12 @@ ${data.contribute}
 
 - [Project Repo](${data.repo})
 
-## GitHub
+## Questions
 
 ![Image of me](${githubInfo.githubImage})
-- [GitHub Profile](${githubInfo.profile})
-- ${githubInfo.name}
-  
+
+If you have any question about the repo, open an issue or contact me directly at " + ${githubInfo.email} +". You can fin more of my work at "  + [jones9682](${githubInfo.profile}) + "/).
+
   `;
 }
 
