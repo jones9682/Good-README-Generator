@@ -20,7 +20,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ## Installation
 To install necessary dependencies, run the following command:
-/n
+
 ``
 npm install
 ``
@@ -34,7 +34,7 @@ npm install
 
 ## Test
 To run tests, run the following command:
-/n
+
 ``
 npm run test
 ``
