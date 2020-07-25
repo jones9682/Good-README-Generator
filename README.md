@@ -1,4 +1,5 @@
 
+[![License](https://img.shields.io/static/v1?MadeBy=<LABEL>&BJonesJr.=<MESSAGE>&brightgreen=<COLOR>)]()
 [![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
 
 # **Good README Generator**
