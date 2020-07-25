@@ -1,7 +1,14 @@
 // function to generate markdown for README
 function generateMarkdown(data, githubInfo) {
+  const lincenseInfo = {
+    "MIT": "http://doge.mit-license.org",
+    "APACHE 2.0": "http://doge.apache 2.0-license.org",
+    "GPL 3.0": "http://doge.gpl 3.0-license.org",
+    "BSD 3": "http://doge.bsd 3-license.org",
+    "Unlicense": "http://doge.unlicense-license.org"
+  }
   return `
-[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen.svg)](https://github.com/jones9682/Good-README-Generator)
 
 # **${data.title}**
 
@@ -42,7 +49,7 @@ ${data.test}
 
 ## License
 
-${data.license}
+[![License](http://img.shields.io/:license-${data.license}-blue.svg)](${lincenseInfo[data.license]})
 
 ## Contributors
 
