@@ -1,5 +1,5 @@
 
-[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen.svg)](https://github.com/jones9682/Good-README-Generator)
 
 # **Good README Generator**
 
@@ -21,9 +21,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 ## Installation
 To install necessary dependencies, run the following command:
 
-``
 npm install
-``
+
 ## Usage
 
 
@@ -37,17 +36,16 @@ npm install
 ## Test
 To run tests, run the following command:
 
-``
 npm run test
-``
+
 ## License
-``
-MIT
-``
+
+[![License](http://img.shields.io/:license-APACHE 2.0-blue.svg)](http://doge.apache 2.0-license.org)
+
 ## Contributors
-``
+
 Bobby Jones Jr.
-``
+
 ## Repository
 
 - [Project Repo](https://github.com/jones9682/Good-README-Generator)
