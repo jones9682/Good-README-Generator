@@ -40,7 +40,7 @@ npm run test
 
 ## License
 
-[![License](http://img.shields.io/:license-APACHE-2.0-orange.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
 
 ## Contributors
 
