@@ -39,8 +39,8 @@ To run tests, run the following command:
 
 
 ## License
-
-MIT[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-MIT-blue.svg)](http://doge.mit-license.org)
+MIT
 
 ## Contributors
 
