@@ -20,11 +20,6 @@ const questions = [
         name: "title",
         message: "What is your project's name?",
     },
-    // {
-    //     type: "input",
-    //     name: "badge",
-    //     message: "Please provide the badges links that you want?"
-    // },
     {
         type: "input",
         name: "description",
@@ -39,7 +34,7 @@ const questions = [
             "APACHE 2.0",
             "GPL 3.0",
             "BSD 3",
-            "None"
+            "Unlicense"
         ]
     },
     {
