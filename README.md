@@ -1,7 +1,7 @@
 
-[![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen?logo=gitHub)](https://github.com/jones9682/Good-README-Generator)
-[![License](https://img.shields.io/github/repo-size/jones9682/Good-README-Generator?logo=gitHub)]
-[![License](https://img.shields.io/github/languages/top/jones9682/Good-README-Generator?logo=github&logoColor=yellow)]
+[![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen?logo=gitHub)(https://github.com/jones9682/Good-README-Generator)
+[![License](https://img.shields.io/github/repo-size/jones9682/Good-README-Generator?logo=gitHub)
+[![License](https://img.shields.io/github/languages/top/jones9682/Good-README-Generator?logo=github&logoColor=yellow)
 
 # **Good README Generator**
 
