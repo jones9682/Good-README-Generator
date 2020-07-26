@@ -7,7 +7,9 @@ function generateMarkdown(data, githubInfo) {
     "Unlicense": "[![License](http://img.shields.io/:license-Unlicense-lightgrey.svg)](https://unlicense.org/)"
   }
   return `
-[![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen.svg)](https://github.com/jones9682/Good-README-Generator)
+  [![License](http://img.shields.io/:MadeBy-BJonesJr-lightgreen?logo=gitHub)](https://github.com/jones9682/Good-README-Generator)
+  [![License](https://img.shields.io/github/repo-size/jones9682/Good-README-Generator?logo=gitHub)](https://github.com/jones9682/Good-README-Generator)
+  [![License](https://img.shields.io/github/languages/top/jones9682/Good-README-Generator?logo=github&logoColor=yellow)](https://github.com/jones9682/Good-README-Generator)
 
 # **${data.title}**
 
